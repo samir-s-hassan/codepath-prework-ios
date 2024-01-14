@@ -21,6 +21,8 @@ Here's a walkthrough of my background color changer app. You can visit this link
 
 https://drive.google.com/file/d/1Oxa8s9HgIBlYR_yUKR0IaUc_S32OtunN/view?usp=sharing
 
+https://imgur.com/a/O4uIOOC
+
 
 ## App Brainstorming (Step 4)
 
