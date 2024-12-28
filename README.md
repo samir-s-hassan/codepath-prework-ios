@@ -12,8 +12,14 @@ Time spent: 2 hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [X] Users are see a screen with three labels and a button
+- [X] Tapping the button changes the screen color to a random color
+
+## How to run
+
+1. Open Xcode
+2. Choose your simulator, it must be a phone e.g. iPhone 13, iPhone 14 Plus, iPhone 15 Pro, etc. 
+3. Build and run the app on Xcode (can use Command + R)
  
 ## Video Walkthrough
 
